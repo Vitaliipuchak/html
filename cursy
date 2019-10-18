@@ -1,0 +1,19 @@
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script>
+    var A= confirm("Ви адмін?");
+        confirm(A);
+        var B=prompt("Ваше імя");
+        prompt(B);
+        var C= alert("Hello,"+ B);
+        alert(C);
+        
+    </script>
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
